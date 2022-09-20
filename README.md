@@ -21,5 +21,5 @@ I'm a C, JAVA, PYTHON, C# developer here I'm solving data structures problem in 
 
 ## Installation
 
-Install my-project from github
+Install this project from github
 then use visual studio code to execute it
